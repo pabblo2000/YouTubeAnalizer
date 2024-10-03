@@ -1,0 +1,38 @@
+# Entorno virtual
+venv/
+ENV/
+env.bak/
+.Venv/
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Archivos generados por PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos de logs y temporales
+*.log
+*.sqlite3
+*.db
+*.tmp
+*.bak
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Git
+.git/
+
+# Archivos de configuración de Inno Setup
+*.iss~
+
+# Archivos de iconos
+*.ico
+
+# Archivos y carpetas relacionadas con el control de versiones o IDEs
+.idea/
+.vscode/

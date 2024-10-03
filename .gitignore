@@ -1,0 +1,47 @@
+# Ignorar el entorno virtual
+venv/
+Venv/
+env/
+ENV/
+.venv/
+ENV/
+
+# Ignorar archivos .pyc y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar archivos de configuración del instalador
+*.exe
+*.iss
+*.ico
+
+# Ignorar datos generados
+data/*.csv
+data/*.json
+data/*.db
+data/*.log
+
+# Ignorar configuraciones y claves locales
+config.py
+
+# Ignorar configuraciones de base de datos
+database.py
+to_sql.py
+
+# Ignorar archivos de instalación generados
+*.Installer.exe
+*.Installador_*.exe
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales o de sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorar node_modules si usas Node.js en algún punto
+node_modules/
