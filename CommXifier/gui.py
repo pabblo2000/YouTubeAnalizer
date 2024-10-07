@@ -16,6 +16,7 @@ class AppGUI:
         # Establecer el icono
         master.iconbitmap(icon_path)
 
+        # Establecer el tamaño de la ventana
         master.geometry("600x500") 
 
         # Campos para credenciales
