@@ -25,10 +25,6 @@ data/*.log
 # Ignorar configuraciones y claves locales
 config.py
 
-# Ignorar configuraciones de base de datos
-database.py
-to_sql.py
-
 # Ignorar archivos de instalación generados
 *.Installer.exe
 *.Installador_*.exe
