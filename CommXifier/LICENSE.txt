@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2024 Pablo Álvaro Hidalgo
+=======
+Copyright (c) 2024 [Tu Nombre o el Nombre de tu Organización]
+>>>>>>> 343ab3277c006fa69df4571f98ada079cc721513
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,4 +23,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 343ab3277c006fa69df4571f98ada079cc721513
